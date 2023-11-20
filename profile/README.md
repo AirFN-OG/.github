@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ A short introduction - AirFN is an OG Fortnite Server, running off of version 2.42!
+🙋‍♀️ A short introduction - AirFN is an OG Fortnite Server, running off of version 2.4.2!
 
 🔥 Do we open source our project - We will only drop the code **if** we shut down.
 
