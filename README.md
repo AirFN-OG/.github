@@ -6,4 +6,4 @@
 
 👨‍💻 Who is Developing AirFN:
 - [OptiX YT](https://codeberg.org/optixyt) - Main Developer and Owner
-- [sungsphinx](https://sungsphinx.codeberg.page) - Website Developer
+
